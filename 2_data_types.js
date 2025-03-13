@@ -14,6 +14,7 @@
 // symbol  Unique
 // object 
 
+
 let name = "Chandrakant";   
 let age = 21;   
 let isLoggedIn = false; 
