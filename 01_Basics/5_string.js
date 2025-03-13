@@ -9,7 +9,7 @@ const repoCount = 50;
 console.log(`Hello my name is ${name} and my repo count is ${repoCount}`);
 
 const gameName = new String('Chandu-Netam-Chandrakant-Netam');
-console.log(gameName[0]);
+console.log(gameName[0]);   // Try this on Google chrome console where you will find all string methods.
 console.log(gameName.__proto__);
 
 console.log(gameName.length);
