@@ -39,4 +39,32 @@ console.log(typeof outsideTemp);
 console.log(typeof myFunction);
 
 
+// Stack (Primitive) 
+
+let myYoutubeName = "ChanduNetam";
+
+let anotherName = myYoutubeName;
+console.log(anotherName);
+
+anotherName = "Chandrakant";
+
+console.log(anotherName);
+console.log(myYoutubeName);
+
+// Heap or Non-Primitive
+
+let userOne = {
+    email : "Chandu@gmail.com",
+    upi : "Chandu@ybl"
+}
+
+console.log(userOne);
+
+let userTwo = userOne;
+
+userTwo.email = "Chandrakant@gmail.com";
+
+console.log(userTwo);
+console.log(userOne);
+
 
