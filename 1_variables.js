@@ -6,7 +6,7 @@ var accountPassword = "12345";   // Declaring variable using "var"
 accountCity = "Raipur"; // This way, it can be declared a variable but shouldn't be used.
 let accountHolder;
 
-/*
+/*  This is a Multiline Comment
  { 
     } this is a scope in javascript  
 
@@ -14,6 +14,7 @@ let accountHolder;
   because of issue in block scope and functional scope
 
 */ 
+
 
 console.table([accountId, accountEmail, accountPassword, accountCity, accountHolder]);
 
