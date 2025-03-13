@@ -31,9 +31,9 @@
 // console.log(stringNumber);
 // console.log(typeof stringNumber);
 
-// Truthy and Falsy Values
+// // Truthy and Falsy Values
 
-// **********************************  Operations   *************************** // 
+// // **********************************  Operations   *************************** // 
 
 // let value = 3;
 // let negValue = -value;
@@ -66,7 +66,7 @@
 // let num1,num2, num3 
 // num1 = num2 = num3 = 4
 
-let gameCounter = 100;
-gameCounter++;  // 101
-++gameCounter;  // 102
-console.log(gameCounter);
+// let gameCounter = 100;
+// gameCounter++;  // 101
+// ++gameCounter;  // 102
+// console.log(gameCounter);
