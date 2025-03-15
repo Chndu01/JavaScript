@@ -1,5 +1,7 @@
 // Number and Math
 
+
+
 const score = 400 ;
 console.log(score);
 
